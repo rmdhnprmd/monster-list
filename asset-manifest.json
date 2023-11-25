@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-list/static/css/main.f3d9bfe8.css",
+    "main.js": "/monster-list/static/js/main.86735556.js",
+    "static/js/787.d4aba7ab.chunk.js": "/monster-list/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/monster-list/index.html",
+    "main.f3d9bfe8.css.map": "/monster-list/static/css/main.f3d9bfe8.css.map",
+    "main.86735556.js.map": "/monster-list/static/js/main.86735556.js.map",
+    "787.d4aba7ab.chunk.js.map": "/monster-list/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d9bfe8.css",
+    "static/js/main.86735556.js"
+  ]
+}
